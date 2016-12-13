@@ -1,4 +1,4 @@
 # candle
 Paint a candle
 
-![candle](sample.jpg)
+![candle](https://github.com/virtualizerocket/candle/blob/master/sample.png)
